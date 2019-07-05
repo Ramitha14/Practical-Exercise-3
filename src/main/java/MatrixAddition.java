@@ -1,5 +1,6 @@
 import java.util.*;
 public class MatrixAddition {
+    //program to compute addition of two matrix
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int noofrows = sc.nextInt();

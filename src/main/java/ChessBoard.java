@@ -1,5 +1,6 @@
 import java.util.*;
 public class ChessBoard {
+    //program to create a chess board array
     public static void main(String args[])
     {
         String chess[][]=new String[8][8];

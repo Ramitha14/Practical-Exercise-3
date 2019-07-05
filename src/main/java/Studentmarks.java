@@ -1,6 +1,7 @@
 import java.util.*;
 public class Studentmarks {
     public static void main(String args[])
+ //to check the grade is between 0 and 100
     {
         Scanner sc=new Scanner(System.in);
         int numOfStudents=sc.nextInt();
@@ -15,6 +16,7 @@ public class Studentmarks {
             {
                 System.out.println("Grade is correct");
             }
+     //throws an error message if the grade is incorrect
             else
             {
                 System.out.println("Error-Grade is incorrect");

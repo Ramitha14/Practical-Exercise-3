@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class ConsecutiveNumbers {
+    //program to findout if a series of seven digits are consecutive numbers
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
